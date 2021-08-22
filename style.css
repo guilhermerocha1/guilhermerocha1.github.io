@@ -13,3 +13,16 @@ a{
 .list preincipal{
     font-size: 20px;
 }
+
+.descrition{
+    position: absolute;
+    left: 220px;
+}
+
+.photo{
+    background-color: lavender;
+}
+
+.name{
+    text-align: center;
+}
