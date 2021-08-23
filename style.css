@@ -4,7 +4,7 @@ h4{
 }
 
 body{
-    background-color: #DEB887;
+    background-color: #627FE9;
 }
 
 .list1{
@@ -23,8 +23,8 @@ body{
 }
 
 .photo{
-    padding: 15px 15px;
-    background-color: green;
+    padding: 10px 10px;
+    background-color: #3D62E9;
     border-radius: 20%;
 }
 
