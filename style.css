@@ -6,10 +6,6 @@ body{
     background-color: #DEB887;
 }
 
-a{
-    color: #8B0000;
-}
-
 .list1{
     font-size: 18px;
 }
@@ -28,4 +24,31 @@ a{
 .photo{
     padding: 15px 15px;
     background-color: green;
+    border-radius: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
+
+a.diolinux:hover{
+    background-color: blue;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10%;
+}
+
+a.git:hover{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10%;
+}
+
+a.linkedin:hover{
+    background-color: #5071EA;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 10%;
 }
