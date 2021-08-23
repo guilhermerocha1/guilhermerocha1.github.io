@@ -27,30 +27,7 @@ body{
     border-radius: 20%;
 }
 
-a{
-    text-decoration: none;
-    color: green;
-    font-size: 24px;
-    font-weight: 700;
-}
-
-a.diolinux:hover{
-    background-color: blue;
-    color: white;
-    padding: 10px 10px;
-    border-radius: 10%;
-}
-
-a.git:hover{
-    background-color: black;
-    color: white;
-    padding: 10px 10px;
-    border-radius: 10%;
-}
-
-a.linkedin:hover{
-    background-color: #5071EA;
-    padding: 10px 10px;
-    color: white;
-    border-radius: 10%;
+.logo{
+    width: 35px;
+    border-radius: 50%;
 }
