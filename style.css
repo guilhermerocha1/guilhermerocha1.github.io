@@ -15,12 +15,17 @@ a{
 }
 
 .descrition{
-    left: 220px;
-    font-family: serif;
-    font-weight: 200px;
+    position: absolute;
+    top: 20px;
+    left: 140px;
 }
 
 .name{
     text-align: center;
     font-size: 25px;
+}
+
+.photo{
+    padding: 15px 15px;
+    background-color: green;
 }
