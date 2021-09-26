@@ -5,21 +5,7 @@
   box-sizing: border-box;
 }
 
-h4{
-  font-family: fantasy;
-  font-size: 18px;
-}
-
-.list1{
-  font-size: 18px;
-}
-
-.descrition{
-  top: 20px;
-  left: 140px;
-}
-
-.name{
+.title{
   text-align: center;
 }
 
