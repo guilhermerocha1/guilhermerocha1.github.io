@@ -1,34 +1,33 @@
-h4{
-    font-family: fantasy;
-    font-size: 18px;
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    background-color: #627FE9;
+h4{
+  font-family: fantasy;
+  font-size: 18px;
 }
 
 .list1{
-    font-size: 18px;
+  font-size: 18px;
 }
 
 .descrition{
-    position: absolute;
-    top: 20px;
-    left: 140px;
+  top: 20px;
+  left: 140px;
 }
 
 .name{
-    text-align: center;
-    font-size: 25px;
-}
-
-.photo{
-    padding: 10px 10px;
-    background-color: #3D62E9;
-    border-radius: 20%;
+  text-align: center;
 }
 
 .logo{
-    width: 35px;
-    border-radius: 50%;
+  width: 35px;
+}
+
+.photo {
+  width: 100px;
+  border-radius: 5px;
 }
