@@ -5,11 +5,17 @@
   box-sizing: border-box;
 }
 
-.title{
-  text-align: center;
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  font-family: Raleway;
+  background-color: rgb(157, 160, 163);
+  color: rgb(27, 29, 31);
 }
 
-.logo{
+.logo {
   width: 35px;
 }
 
